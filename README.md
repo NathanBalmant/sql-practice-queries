@@ -95,14 +95,7 @@ WHERE EMPRESTIMO.DATADEVOLUCAO IS NOT NULL;
 
 ---
 
-### 📄 Questão 6
-**Enunciado:**  
-Exiba todos os registros da tabela `EXEMPLAR`.
 
-**Resposta:**
-```sql
-SELECT * FROM EXEMPLAR;
-```
 
 ---
 
